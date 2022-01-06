@@ -3,7 +3,7 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 .main-part{
-    background-image: url(/images/bg/top-banner.png);
+    background-image: url(./images/bg/top-banner.png);
     background-repeat: no-repeat;
 }
 h1{
@@ -99,11 +99,11 @@ p{
       color: white;
   }
   .top-banner{
-background-image: url(/images/bg/dream-bg.png);
+background-image: url(./images/bg/dream-bg.png);
 background-repeat: no-repeat;
   }
   .bottom-banner{
-    background-image: url(/images/bg/exp-bg.png);
+    background-image: url(./images/bg/exp-bg.png);
     background-repeat: no-repeat;
   }
   h2{
