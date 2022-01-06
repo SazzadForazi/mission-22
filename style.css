@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-weight: 900;
+}
+.main-focus{
+    display: flex;
+    width: 80%;
+    margin: auto;
+    justify-content: space-around;
+    align-items: center;
+}
+.focus{
+    width: 600px;
+}
+.focus-img img{
+    width: 350px;
+    /* margin-top: -15px; */
+}
+.color{
+    color: rgb(245, 245, 12);
+}
